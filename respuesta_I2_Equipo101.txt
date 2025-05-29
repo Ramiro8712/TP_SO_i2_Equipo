@@ -3,3 +3,10 @@ Desde GitHub, sincronizo el Fork y en mi directorio hago un git pull
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 Si, pero BETA tiene que autorizar el pull request
+
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Si, pero primero BETA tiene que autorizar el pull request
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+Nunca se pierden gracias a los commits
