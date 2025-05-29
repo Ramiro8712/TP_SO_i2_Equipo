@@ -10,3 +10,22 @@ Si, pero primero BETA tiene que autorizar el pull request
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 Nunca se pierden gracias a los commits
+
+- BETA: Crear el repositorio y el README en GITHUB
+- BETA: Crear el archivo fork.txt
+- ALFA: Fork en GITHUB al repositorio BETA
+- ALFA: git pull <- Para traer los cambios a mi repositorio local
+- ALFA: Modifica el archivo
+- ALFA: git add ., git commit -m "", git push
+- ALFA: pull request en GITHUB
+- BETA: Acepta el pull request
+- BETA: git pull
+- BETA: Crea el archivo NuevoDato.txt
+- BETA: git add ., git commit -m "", git push
+- ALFA: Sincronizo el fork en GITHUB
+- ALFA: git pull
+- BETA: Crea archivo respuesta_I2_Equipo101
+- BETA: Modifica el archivo
+- BETA: git add ., git commit -m "", git push
+- ALFA: Sincronizo el fork en GITHUB
+- ALFA: git pull
