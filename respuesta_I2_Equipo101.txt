@@ -1,0 +1,5 @@
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+Desde GitHub, sincronizo el Fork y en mi directorio hago un git pull
+
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+Si, pero BETA tiene que autorizar el pull request
